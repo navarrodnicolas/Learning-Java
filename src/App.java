@@ -23,7 +23,7 @@ public class App {
         resultado++; //Esto es como si le sumara 1 es igual a decir resultado = resultado + 1
         resultado--; //resultado = resultado - 1
         resultado = -resultado;
-        resultado = +resultado;
+        resultado = +resultado; //resultado = resultado + resultado
         /**Operadores lógicos o relacionales
          * Lo que buscan es obtener un resultado que está entre verdadero y falso*/
         boolean respuesta = true;
